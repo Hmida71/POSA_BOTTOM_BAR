@@ -1,6 +1,8 @@
 ## Posa Bottom Bar 🔥
 
 - made by Hmida71
+- in <a href='https://pub.dev/packages/posa_bottom_bar'>https://pub.dev/packages/posa_bottom_bar</a>
+
 
 ### ANIMATION EXAMPLE
 
