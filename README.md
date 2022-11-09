@@ -2,6 +2,13 @@
 
 - made by Hmida71
 
+### ANIMATION EXAMPLE
+
+| Animation Icons | Animation elevation and opacity |
+|---------|----------|
+|![FanBottomNavyBar Gif](https://user-images.githubusercontent.com/69757558/200888205-fbdd698c-39ae-4b04-a0d1-4560d746f83f.gif) | ![Fix Gif](https://user-images.githubusercontent.com/69757558/200888217-37199c10-6186-4ab5-b254-c44bec68daec.gif) |
+
+
 ## Customization
 
 ### PosaBottomBar (REQUIRED ITEMS)
