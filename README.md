@@ -4,6 +4,7 @@
 - in <a href='https://pub.dev/packages/posa_bottom_bar'>https://pub.dev/packages/posa_bottom_bar</a>
 
 
+
 ### ANIMATION EXAMPLE
 
 | Animation Icons | Animation elevation and opacity |
